@@ -4,10 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilrajrimal1&label=Profile%20views&color=0e75b6&style=flat" alt="anilrajrimal1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anilrajrimal" target="blank"><img src="https://img.shields.io/twitter/follow/anilrajrimal?logo=twitter&style=for-the-badge" alt="anilrajrimal" /></a> </p>
-
 - I'm currently working at **NAXA Pvt. Ltd.**
 
 - 🌱 I’m currently learning **MLOPS**
@@ -29,7 +25,7 @@
 <img style="margin: 10px" src="https://blog.paperspace.com/content/images/size/w1050/2019/10/pytorch-logo-1.png" alt="PyTorch" height="50" />
 <img style="margin: 10px" src="https://images.javatpoint.com/tutorial/keras/images/keras.png" alt="keras" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" />
-<img style="margin: 10px" src="" alt="" height="50" />
+<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="pandas" height="50" />
 <img style="margin: 10px" src="" alt="" height="50" />
 
 

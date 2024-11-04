@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Er. Anuj Gaida</h1>
 <h3 align="center">A passionate AI engineer and GeoAI by profession</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - I'm currently working at **NAXA Pvt. Ltd.**
 

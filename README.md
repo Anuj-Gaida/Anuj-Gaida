@@ -24,7 +24,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://static.vecteezy.com/system/resources/previews/047/402/228/non_2x/a-line-style-icon-of-computer-vision-vector.jpg" alt="Computer Vision" height="50" />
 <img style="margin: 10px" src="https://i.pinimg.com/736x/b5/82/10/b582109162405bf1b96e9cdad447d14a.jpg" alt="ANNs" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dhttps://thumbs.dreamstime.com/b/natural-language-processing-line-icon-linear-style-sign-mobile-concept-web-design-ai-nlp-technology-outline-vector-symbol-310893270.jpgev/skills-assets/figma-icon.svg" alt="NLP" height="50" />
+<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/9831/9831299.png" alt="NLP" height="50" />
 <img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" alt="Tensorflow" height="50" />
 <img style="margin: 10px" src="https://blog.paperspace.com/content/images/size/w1050/2019/10/pytorch-logo-1.png" alt="PyTorch" height="50" />
 <img style="margin: 10px" src="https://images.javatpoint.com/tutorial/keras/images/keras.png" alt="keras" height="50" />
@@ -61,17 +61,15 @@
 
 
 
-### DevOps  
+### MLOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://aws.amazon.com/sagemaker/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:800/0*UUXdeEJadxsHC367.png" alt="Sagemaker" height="50" /></a>  
+
 </div>
 
 </td></tr></table>  
@@ -81,29 +79,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/anilrajrimal1" target="_blank">
+<a href="https://github.com/Anuj-Gaida" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/fb.anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/26495540/anil-raj-rimal" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/the_anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@anilrajrimal" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.linkedin.com/in/anuj-gaida-71a470230/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> 
 </div>  
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilrajrimal1&show_icons=true&locale=en&layout=compact" alt="anilrajrimal1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Gaida&show_icons=true&locale=en&layout=compact" alt="Anuj-Gaida" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilrajrimal1&show_icons=true&locale=en" alt="anilrajrimal1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuj-Gaida&show_icons=true&locale=en" alt="Anuj-Gaida" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilrajrimal1&" alt="anilrajrimal1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Gaida&" alt="Anuj-Gaida" /></p>

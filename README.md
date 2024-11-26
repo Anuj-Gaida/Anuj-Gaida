@@ -1,4 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anilrajrimal.com.np)
+<div align="center" style="height: 400px; display: flex; justify-content: center; align-items: center;">
+  <img src="selfavatar.webp" alt="My Image" style="width: 50%;">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Er. Anuj Gaida</h1>
 <h3 align="center">A passionate AI engineer and GeoAI by profession</h3>
 

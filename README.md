@@ -69,7 +69,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://aws.amazon.com/sagemaker/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:800/0*UUXdeEJadxsHC367.png" alt="Sagemaker" height="50" /></a> 
-<a href="https://www.astronomer.io/docs/learn/intro-to-airflow/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png" alt="Airflow" height="50" /></a>  
+<a href="https://www.astronomer.io/docs/learn/intro-to-airflow/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/media/EFOe7T4X4AEfIyl.jpg" alt="Airflow" height="50" /></a>  
 
 
 </div>

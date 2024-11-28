@@ -1,12 +1,12 @@
 <div align="center" style="height: 400px; display: flex; justify-content: center; align-items: center;">
-  <img src="bgremoved.png" alt="My Image" style="width: 40%;">
+  <img src="wavingmebgremoved.png" alt="My Image" style="width: 40%;">
 </div>
 
 
 <h1 align="center">Hi 👋, I'm Er. Anuj Gaida</h1>
 <h3 align="center">A passionate AI engineer and GeoAI by profession</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="bgremoved.png">
 
 - I'm currently working at **NAXA Pvt. Ltd.**
 

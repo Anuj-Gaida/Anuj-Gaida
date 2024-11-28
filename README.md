@@ -1,5 +1,5 @@
 <div align="center" style="height: 400px; display: flex; justify-content: center; align-items: center;">
-  <img src="selfavatar.webp" alt="My Image" style="width: 50%;">
+  <img src="bgremoved.png" alt="My Image" style="width: 40%;">
 </div>
 
 

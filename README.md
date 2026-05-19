@@ -91,10 +91,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj-Gaida&theme=vision_friendly_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj-Gaida&theme=vision_friendly_dark&type=png" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuj-Gaida&theme=vision_friendly_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuj-Gaida&theme=vision_friendly_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuj-Gaida&theme=vision_friendly_dark&type=png" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuj-Gaida&theme=vision_friendly_dark&type=png" />
 </p>

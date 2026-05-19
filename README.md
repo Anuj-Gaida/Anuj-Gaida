@@ -89,8 +89,12 @@
 </div>  
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Gaida&show_icons=true&locale=en&layout=compact" alt="Anuj-Gaida" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuj-Gaida&show_icons=true&locale=en" alt="Anuj-Gaida" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuj-Gaida&theme=vision_friendly_dark" />
+</p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Gaida&" alt="Anuj-Gaida" /></p>-->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuj-Gaida&theme=vision_friendly_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuj-Gaida&theme=vision_friendly_dark" />
+</p>
